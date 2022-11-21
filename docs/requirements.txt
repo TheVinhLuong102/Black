@@ -3,4 +3,4 @@
 myst-parser==0.16.1
 Sphinx==4.3.2
 sphinxcontrib-programoutput==0.17
-sphinx_copybutton==0.4.0
+sphinx_copybutton==0.5.1
